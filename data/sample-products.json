@@ -1,0 +1,119 @@
+[
+  {
+    "productId": "gid://shopify/Product/1001",
+    "name": "オーガニックコットンTシャツ",
+    "category": "Apparel",
+    "sku": "APP-TS-001",
+    "price": 3980,
+    "images": [
+      "https://cdn.shopify.com/s/files/apparel/ts-001-white.jpg",
+      "https://cdn.shopify.com/s/files/apparel/ts-001-black.jpg"
+    ],
+    "status": "ACTIVE",
+    "updatedAt": "2024-11-15T10:30:00Z"
+  },
+  {
+    "productId": "gid://shopify/Product/1002",
+    "name": "スリムフィットデニム",
+    "category": "Apparel",
+    "sku": "APP-DN-002",
+    "price": 8900,
+    "images": [
+      "https://cdn.shopify.com/s/files/apparel/dn-002.jpg"
+    ],
+    "status": "ACTIVE",
+    "updatedAt": "2024-11-10T14:00:00Z"
+  },
+  {
+    "productId": "gid://shopify/Product/1003",
+    "name": "ワイヤレスノイズキャンセリングヘッドホン",
+    "category": "Electronics",
+    "sku": "ELC-HP-003",
+    "price": 29800,
+    "images": [
+      "https://cdn.shopify.com/s/files/electronics/hp-003-main.jpg",
+      "https://cdn.shopify.com/s/files/electronics/hp-003-case.jpg"
+    ],
+    "status": "ACTIVE",
+    "updatedAt": "2024-11-18T09:00:00Z"
+  },
+  {
+    "productId": "gid://shopify/Product/1004",
+    "name": "USB-C マルチポートハブ",
+    "category": "Electronics",
+    "sku": "ELC-HB-004",
+    "price": 5480,
+    "images": [
+      "https://cdn.shopify.com/s/files/electronics/hb-004.jpg"
+    ],
+    "status": "DRAFT",
+    "updatedAt": "2024-11-12T16:00:00Z"
+  },
+  {
+    "productId": "gid://shopify/Product/1005",
+    "name": "本革コンパクトウォレット",
+    "category": "Accessories",
+    "sku": "ACC-WL-005",
+    "price": 12800,
+    "images": [
+      "https://cdn.shopify.com/s/files/accessories/wl-005.jpg"
+    ],
+    "status": "ACTIVE",
+    "updatedAt": "2024-11-08T11:30:00Z"
+  },
+  {
+    "productId": "gid://shopify/Product/1006",
+    "name": "欠陥データ：SKUなし",
+    "category": "Test",
+    "sku": "",
+    "price": 1000,
+    "images": [],
+    "status": "ACTIVE",
+    "updatedAt": "2024-11-01T00:00:00Z"
+  },
+  {
+    "productId": "gid://shopify/Product/1007",
+    "name": "欠陥データ：不正な価格",
+    "category": "Test",
+    "sku": "TST-007",
+    "price": "invalid",
+    "images": [],
+    "status": "ACTIVE",
+    "updatedAt": "2024-11-01T00:00:00Z"
+  },
+  {
+    "productId": "",
+    "name": "欠陥データ：IDなし",
+    "category": "Test",
+    "sku": "TST-008",
+    "price": 500,
+    "images": [],
+    "status": "ACTIVE",
+    "updatedAt": "2024-11-01T00:00:00Z"
+  },
+  {
+    "productId": "gid://shopify/Product/1009",
+    "name": "ヨガマット プレミアム",
+    "category": "Sports",
+    "sku": "SPT-YM-009",
+    "price": 4980,
+    "images": [
+      "https://cdn.shopify.com/s/files/sports/ym-009.jpg"
+    ],
+    "status": "ACTIVE",
+    "updatedAt": "2024-11-20T08:00:00Z"
+  },
+  {
+    "productId": "gid://shopify/Product/1010",
+    "name": "ランニングシューズ Air",
+    "category": "Sports",
+    "sku": "SPT-RS-010",
+    "price": 15800,
+    "images": [
+      "https://cdn.shopify.com/s/files/sports/rs-010-side.jpg",
+      "https://cdn.shopify.com/s/files/sports/rs-010-top.jpg"
+    ],
+    "status": "ARCHIVED",
+    "updatedAt": "2024-10-01T12:00:00Z"
+  }
+]
